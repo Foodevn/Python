@@ -1,4 +1,4 @@
-from lab2.PhanSo import PhanSo
+from PhanSo import PhanSo
 
 class DSPhanSo:
     def __init__(self):

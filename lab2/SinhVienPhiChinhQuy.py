@@ -1,4 +1,4 @@
-from lab2.SinhVien import SinhVien
+from SinhVien import SinhVien
 from datetime import datetime
 class SinhVienPhiChinhQuy(SinhVien):
     def __init__(self, mssv:int, hoten:str, ngaysinh:datetime, trinhdo:str, ThoiGianDaoTao:int)->None:
